@@ -35,3 +35,5 @@ This results in a **soft, uncertainty-aware measure** of Court moderation over t
 
 We aggregate the expected number of neutral justices per decade but one can do the same on a per term or per administration.  
 
+![](xNeutral_SCOTUS.png)
+
